@@ -134,3 +134,5 @@ clothing.withdraw(200, 'Jeans')
 food.transfer(50, clothing)
 
 print(create_spend_chart([food, clothing]))
+print()
+print(food)
